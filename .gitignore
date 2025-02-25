@@ -1,0 +1,9 @@
+*.exe
+*.dat
+*.msg
+*.html
+mingw64/
+usr/
+etc/
+bin/
+cmd/
